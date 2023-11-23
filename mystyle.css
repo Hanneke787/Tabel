@@ -1,0 +1,98 @@
+header{
+    background-color: aqua;
+    width: 750px;
+    height: 50px;
+}
+footer{
+    background-color: aqua;
+    width: 750px;
+    height: 50px;
+}
+#rood1{
+    background-color: rgb(139,0,0);
+    color: black;
+    width: 75px;
+    height: 75px;
+}
+#rood2{
+    background-color: rgb(255,0,0);
+    width: 75px;
+    height: 75px;
+}
+#rood3{
+    background-color: rgb(178,34,34);
+    color: grey;
+    width: 75px;
+    height: 75px;
+}
+#rood4{
+    background-color: rgb(220,20,60);
+    width: 75px;
+    height: 75px;
+}
+#groep1{
+    background-color: rgb(0,128,128);
+    color: white;
+    width: 75px;
+    height: 75px;
+}
+#groep2{
+    background-color: rgb(0, 139,139);
+    width: 75px;
+    height: 75px; 
+}
+#groep3{
+    background-color: rgb(32,178,170);
+    color: green;
+    width: 75px;
+    height: 75px;
+}
+#groep4{
+    background-color: rgb(95,158,160);
+    width: 75px;
+    height: 75px;
+}
+#klas1{
+    background-color: rgb(218,112,219);
+    color: yellow;
+    width: 75px;
+    height: 75px;
+}
+#klas2{
+    background-color: rgb(218,112,214);
+    width: 75px;
+    height: 75px;
+}
+#klas3{
+    background-color: rgb(238,130,238);
+    color: purple;
+    width: 75px;
+    height: 75px;
+}
+#klas4{
+    background-color: rgb(221,160,221);
+    width: 75px;
+    height: 75px;
+}
+#groen1{
+    background-color: rgb(0,100,0);
+    color: pink;
+    width: 75px;
+    height: 75px;
+}
+#groen2{
+    background-color: rgb(0,128,0);
+    width: 75px;
+    height: 75px;
+}
+#groen3{
+    background-color: rgb(85,107,47);
+    color: navy;
+    width: 75px;
+    height: 75px;
+}
+#groen4{
+    background-color: rgb(34,139,34);
+    width: 75px;
+    height: 75px;
+}
